@@ -13,7 +13,7 @@
 <h3>💻 About Me</h3>
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">      
+    <td width="55%" align="center">      
 
 ```javascript
 const developer = {
@@ -35,7 +35,7 @@ const developer = {
 };
 ```
 
-</td> <td width="45%" align="center"> <img src="./images/time-to-coding.jpg" alt="Coding" width="100%" height="100%"/> </td> </tr> </table>
+</td> <td width="45%" align="center"> <img src="./images/time-to-coding.jpg" alt="Coding" width="100%"/> </td> </tr> </table>
 
 <!-- ============================================================ -->
 <!-- 📬 CONTACT WITH ME -->
