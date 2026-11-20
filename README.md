@@ -100,6 +100,6 @@ const developer = {
 <!-- ============================================================ -->
 <h3>📊 GitHub statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanya481&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&layout=donut-vertical" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya481&layout=donut-vertical&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanya481&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&layout=pie" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya481&layout=pie&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
