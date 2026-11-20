@@ -32,8 +32,8 @@ const developer = {
       version: ['Git', 'GitHub Actions'],
     },
   },
-  currentFocus: "Создание красивых и быстрых интерфейсов",
-  challenge: "Углубленное изучение архитектуры фронтенд-приложений"
+  currentFocus: "Creating beautiful and fast interfaces",
+  challenge: "In‑depth study of frontend application architecture"
 };
 ```
 
