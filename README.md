@@ -31,9 +31,7 @@ const developer = {
       build: ['Vite', 'Webpack'],
       version: ['Git', 'GitHub Actions'],
     },
-  },
-  currentFocus: 'Создание красивых и быстрых интерфейсов',
-  challenge: 'Углубленное изучение архитектуры фронтенд-приложений',
+  },  
 };
 ```
 
