@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- ============================================================ -->
+<!-- 📸 ВЕРХНИЙ БАННЕР -->
+<!-- ============================================================ -->
+<div align="center">
+  <img src="https://placehold.co/1200x300/0d1117/58a6ff?text=Frontend+Developer+%7C+Aleksandr" alt="Header Banner" width="100%" />
+</div>
 
-<!--
-**Sanya481/Sanya481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- ============================================================ -->
+<!-- 🧑‍💻 ABOUT ME + КАРТИНКА -->
+<!-- ============================================================ -->
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>💻 About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const developer = {
+  name: "Aleksandr",
+  role: "Frontend Developer",
+  location: "Russia",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  technologies: {
+    frontend: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind CSS", "SASS", "Bootstrap"],
+      ui: ["Figma", "Storybook"]
+    },
+    tools: {
+      build: ["Vite", "Webpack"],
+      version: ["Git", "GitHub Actions"]
+    }
+  },
+  currentFocus: "Создание красивых и быстрых интерфейсов",
+  challenge: "Углубленное изучение архитектуры фронтенд-приложений"
+};
+```
+      
+</td> <td width="45%" valign="top" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%" /> </td> </tr> </table>
+
+<!-- ============================================================ --><!-- 📬 CONTACT WITH ME --><!-- ============================================================ -->
+<div align="center" > <h3>📫 Связаться со мной</h3> <a href="https://t.me/ТВОЙ_НИК_В_ТЕЛЕГРАМ" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="https://vk.com/ТВОЙ_НИК_В_ВК" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a> </div>
+
+<!-- ============================================================ --><!-- 🛠️ TECH STACK --><!-- ============================================================ -->
+<div align="center"> <h3>🛠️ Мой стек технологий</h3> </div><table align="center" width="100%" style="border-collapse: collapse;"> <tr> <td align="center" width="50%" valign="top" style="padding: 10px;"> <b>Языки и разметка</b><br/><br/> <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" /> </td> <td align="center" width="50%" valign="top" style="padding: 10px;"> <b>Фреймворки и библиотеки</b><br/><br/> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,bootstrap" alt="Frameworks" /> </td> </tr> <tr> <td align="center" colspan="2" valign="top" style="padding: 10px;"> <b>Инструменты и дизайн</b><br/><br/> <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,figma,npm" alt="Tools" /> </td> </tr> </table>
