@@ -2,7 +2,7 @@
 <!-- 📸 ВЕРХНИЙ БАННЕР -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://placehold.co/1200x300/0d1117/58a6ff?text=Frontend+Developer+%7C+Aleksandr" alt="Header Banner" width="100%" />
+  <img src="./images/header-banner.webp" alt="Header Banner" width="100%" />
 </div>
 
 <br/>
@@ -37,7 +37,7 @@ const developer = {
 };
 ```
 
-</td> <td width="45%" align="center"> <img src="./images/time-to-coding.jpg" alt="Coding" width="100%"/> </td> </tr> </table>
+</td> <td width="45%" align="center"> <img src="./images/time-to-coding.webp" alt="Coding" width="100%"/> </td> </tr> </table>
 
 <!-- ============================================================ -->
 <!-- 📬 CONTACT WITH ME -->
