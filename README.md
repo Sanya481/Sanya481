@@ -11,7 +11,7 @@
 <!-- 🧑‍💻 ABOUT ME + КАРТИНКА -->
 <!-- ============================================================ -->
 <h3>💻 About Me</h3>
-  <img src="./images/time-to-coding.jpg" alt="Coding" align="right" width="300" />
+  <img src="./images/time-to-coding.webp" alt="time-to-coding" align="right" width="300" />
 
 ```javascript
 const developer = {
