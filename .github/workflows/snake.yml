@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Обновление раз в день
+  workflow_dispatch: # Позволяет запустить вручную
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sanya481
+          outputs: |
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-light
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: 'Update snake animation [skip ci]'
