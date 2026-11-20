@@ -31,7 +31,9 @@ const developer = {
       build: ['Vite', 'Webpack'],
       version: ['Git', 'GitHub Actions'],
     },
-  },  
+  },
+  currentFocus: "Создание красивых и быстрых интерфейсов",
+  challenge: "Углубленное изучение архитектуры фронтенд-приложений"
 };
 ```
 
@@ -41,7 +43,7 @@ const developer = {
 <!-- 📬 CONTACT WITH ME -->
 <!-- ============================================================ -->
 <div align="center">
-  <h3>📫 Contact me</h3>
+  <h3>📫 Contact with me</h3>
   <a href="https://t.me/Sanya_Escapade" target="_blank"
     ><img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
@@ -91,4 +93,13 @@ const developer = {
       src="https://raw.githubusercontent.com/Sanya481/Sanya481/output/github-snake.svg"
     />
   </picture>
+</div>
+
+<!-- ============================================================ -->
+<!-- 📊 GitHub статистика -->
+<!-- ============================================================ -->
+<h3>📊 GitHub statistics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanya481&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya481&layout=compact&theme=tokyonight&hide_border=true&locale=ru" height="165" alt="Top Languages" />
 </div>
