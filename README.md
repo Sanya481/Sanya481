@@ -41,7 +41,7 @@ const developer = {
 <!-- 📬 CONTACT WITH ME -->
 <!-- ============================================================ -->
 <div align="center">
-  <h3>📫 Связаться со мной</h3>
+  <h3>📫 Contact me</h3>
   <a href="https://t.me/Sanya_Escapade" target="_blank"
     ><img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
@@ -58,17 +58,17 @@ const developer = {
 <!-- 🛠️ TECH STACK -->
 <!-- ============================================================ -->
 <div>
-  <h3>🛠️ Мой стек технологий</h3>
+  <h3>🛠️ My tech stack</h3>
 
-<b>Языки и разметка</b><br /><br />
+<b>Languages and markup</b><br /><br />
 <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=10&theme=dark" alt="Languages" />
 <br />
 
-<b>Фреймворки и библиотеки</b><br /><br />
+<b>Frameworks and libraries</b><br /><br />
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,storybook&perline=10&theme=dark" alt="Frameworks" />
 <br />
 
-<b>Инструменты и дизайн</b><br /><br />
+<b>Tools and design</b><br /><br />
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,figma,npm,vscode,bash&perline=12&theme=dark" alt="Tools" />
 
 </div>
