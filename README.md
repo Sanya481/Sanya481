@@ -34,10 +34,10 @@ const developer = {
   },
   currentFocus: 'Создание красивых и быстрых интерфейсов',
   challenge: 'Углубленное изучение архитектуры фронтенд-приложений',
-}
+};
 ```
 
-</td> <td width="45%" valign="top" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%" /> </td> </tr> </table>
+</td> <td width="45%" valign="top" align="center"> <img src="./images/time-to-coding.jpg" alt="Coding" width="100%" /> </td> </tr> </table>
 
 <!-- ============================================================ -->
 <!-- 📬 CONTACT WITH ME -->
@@ -62,34 +62,17 @@ const developer = {
 <div align="center">
   <h3>🛠️ Мой стек технологий</h3>
 
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <b>Языки и разметка</b>
-        <br />
-        <br />
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
-      </td>
-      <td align="center" width="50%" valign="top">
-        <b>Фреймворки и библиотеки</b>
-        <br />
-        <br />
-        <img src="https://skillicons.dev/icons?i=react,tailwind,sass" alt="Frameworks" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2" valign="top">
-        <br />
-        <b>Инструменты и дизайн</b>
-        <br />
-        <br />
-        <img
-          src="https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,figma,npm"
-          alt="Tools"
-        />
-      </td>
-    </tr>
-  </table>
+<b>Языки и разметка</b><br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=8&theme=dark" alt="Languages" />
+<br /><br /><br />
+
+<b>Фреймворки и библиотеки</b><br /><br />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,storybook&perline=8&theme=dark" alt="Frameworks" />
+<br /><br /><br />
+
+<b>Инструменты и дизайн</b><br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,figma,npm,vscode,bash&perline=14&theme=dark" alt="Tools" />
+
 </div>
 
 <!-- ============================================================ -->
