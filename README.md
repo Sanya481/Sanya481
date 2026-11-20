@@ -64,11 +64,11 @@ const developer = {
 
 <b>Языки и разметка</b><br /><br />
 <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=8&theme=dark" alt="Languages" />
-<br /><br /><br />
+<br />
 
 <b>Фреймворки и библиотеки</b><br /><br />
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,storybook&perline=8&theme=dark" alt="Frameworks" />
-<br /><br /><br />
+<br />
 
 <b>Инструменты и дизайн</b><br /><br />
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,figma,npm,vscode,bash&perline=14&theme=dark" alt="Tools" />
