@@ -10,10 +10,10 @@
 <!-- ============================================================ -->
 <!-- 🧑‍💻 ABOUT ME + КАРТИНКА -->
 <!-- ============================================================ -->
+<h3>💻 About Me</h3>
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>💻 About Me</h3>
+    <td width="55%" valign="top">      
 
 ```javascript
 const developer = {
@@ -63,15 +63,15 @@ const developer = {
   <h3>🛠️ Мой стек технологий</h3>
 
 <b>Языки и разметка</b><br /><br />
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=8&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=10&theme=dark" alt="Languages" />
 <br /><br /><br />
 
 <b>Фреймворки и библиотеки</b><br /><br />
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,storybook&perline=8&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,storybook&perline=10&theme=dark" alt="Frameworks" />
 <br /><br /><br />
 
 <b>Инструменты и дизайн</b><br /><br />
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,figma,npm,vscode,bash&perline=14&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vite,webpack,figma,npm,vscode,bash&perline=12&theme=dark" alt="Tools" />
 
 </div>
 
