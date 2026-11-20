@@ -13,7 +13,7 @@
 <h3>💻 About Me</h3>
 <table width="100%">
   <tr>
-    <td width="55%" align="center">      
+    <td width="55%">      
 
 ```javascript
 const developer = {
