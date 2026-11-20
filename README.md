@@ -2,7 +2,7 @@
 <!-- 📸 ВЕРХНИЙ БАННЕР -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="./images/header-banner.webp" alt="Header Banner" width="100%" />
+  <img src="./images/header-banner.webp" alt="Frontend Developer | Aleksandr" width="100%" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 <h3>💻 About Me</h3>
 <table width="100%">
   <tr>
-    <td width="55%">      
+    <td width="55%">
 
 ```javascript
 const developer = {
@@ -32,9 +32,9 @@ const developer = {
       version: ['Git', 'GitHub Actions'],
     },
   },
-  currentFocus: "Creating beautiful and fast interfaces",
-  challenge: "In‑depth study of frontend application architecture"
-};
+  currentFocus: 'Creating beautiful and fast interfaces',
+  challenge: 'In‑depth study of frontend application architecture',
+}
 ```
 
 </td> <td width="45%" align="center"> <img src="./images/time-to-coding.webp" alt="Coding" width="100%"/> </td> </tr> </table>
@@ -67,7 +67,7 @@ const developer = {
 <br />
 
 <b>Frameworks and libraries</b><br /><br />
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,storybook&perline=10&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,sass,less,storybook&perline=10&theme=dark" alt="Frameworks" />
 <br />
 
 <b>Tools and design</b><br /><br />
@@ -98,8 +98,9 @@ const developer = {
 <!-- ============================================================ -->
 <!-- 📊 GitHub статистика -->
 <!-- ============================================================ -->
-<h3>📊 GitHub statistics</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanya481&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&layout=compact" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya481&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <h3>📊 GitHub statistics</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sanya481&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&layout=compact" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya481&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
